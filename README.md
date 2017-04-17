@@ -1,8 +1,8 @@
 # nosexperience.github.io
 
-#Welcome
+<b>Welcome</b>
 
 This is where we keep the files for our website!
 
-#To do:
+<b>To do:</b>
 -Make it a website
