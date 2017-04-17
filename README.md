@@ -5,4 +5,6 @@
 This is where we keep the files for our website!
 
 <b>To do:</b>
--Make it a website
+<ul>
+<li>Make it a website</li>
+</ul>
