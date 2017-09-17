@@ -96,3 +96,18 @@
 .divider-line {
 	border-bottom: 5px solid linear-gradient(-90deg, white, gray, white);	
 }
+
+.post-spacer {
+    margin-bottom: 4%;
+}
+
+.date {
+    font-size: 120%;
+    font-family: monospace;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.date-year {
+    font-size: 75%;
+}
