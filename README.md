@@ -1,10 +1,8 @@
 # nosexperience.github.io
 
-<b>Welcome</b>
+## Welcome
 
 This is where we keep the files for our website!
 
-<b>To do:</b>
-<ul>
-<li>Make it a website</li>
-</ul>
+**To maintain:**
+* Keep up with changes in NOSE Servers, and document here. 
